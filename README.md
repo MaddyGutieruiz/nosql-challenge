@@ -81,3 +81,9 @@ Hint: You will need to compare the geocode to find the nearest locations. Search
 How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 Hint: You will need to use the aggregation method to answer this.
+
+## Results
+
+Jupyter Notebook file for Part 1: NoSQL_setup_starter can be found here:
+
+Jupyter Notebook file for Part 2:NoSQL_analysis_starte can be found here:
