@@ -84,6 +84,6 @@ Hint: You will need to use the aggregation method to answer this.
 
 ## Results
 
-Jupyter Notebook file for Part 1: NoSQL_setup_starter can be found here:
+Jupyter Notebook file for Part 1: NoSQL_setup_starter can be found here: https://github.com/MaddyGutieruiz/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb
 
-Jupyter Notebook file for Part 2:NoSQL_analysis_starte can be found here:
+Jupyter Notebook file for Part 2:NoSQL_analysis_starte can be found here: https://github.com/MaddyGutieruiz/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb
