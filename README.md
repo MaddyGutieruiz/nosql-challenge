@@ -86,4 +86,6 @@ Hint: You will need to use the aggregation method to answer this.
 
 Jupyter Notebook file for Part 1: NoSQL_setup_starter can be found here: https://github.com/MaddyGutieruiz/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb
 
-Jupyter Notebook file for Part 2:NoSQL_analysis_starte can be found here: https://github.com/MaddyGutieruiz/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb
+Jupyter Notebook file for Part 2:NoSQL_analysis_starter can be found here: https://github.com/MaddyGutieruiz/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb
+
+Additional comments: I did have some issues with the Rating Value portion of Part 2:NoSQL_analysis_starter . I am not sure if I was not pulling the file correctly or if the code was just wrong. Any comment would be helpful when grading. Thank you!
