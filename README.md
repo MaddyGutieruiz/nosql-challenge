@@ -88,4 +88,5 @@ Jupyter Notebook file for Part 1: NoSQL_setup_starter can be found here: https:/
 
 Jupyter Notebook file for Part 2:NoSQL_analysis_starter can be found here: https://github.com/MaddyGutieruiz/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb
 
-Additional comments: I did have some issues with the Rating Value portion of Part 2:NoSQL_analysis_starter . I am not sure if I was not pulling the file correctly or if the code was just wrong. Any comment would be helpful when grading. Thank you!
+### Additional comments/note for grader: 
+I did have some issues with the Rating Value portion of Part 2:NoSQL_analysis_starter. I am not sure if I was not pulling the file correctly or if the code was just wrong, but I kept getting "Zeros" for my count results. Any comments or feedback when grading on those sections would be helpful. Thank you!
