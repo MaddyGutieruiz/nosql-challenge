@@ -90,3 +90,5 @@ Jupyter Notebook file for Part 2:NoSQL_analysis_starter can be found here: https
 
 ### Additional comments/note for grader: 
 I did have some issues with the Rating Value portion of Part 2:NoSQL_analysis_starter. I am not sure if I was not pulling the file correctly or if the code was just wrong, but I kept getting "Zeros" for my count results. Any comments or feedback when grading on those sections would be helpful. Thank you!
+
+Update for resubmition: I was able to retrieve the data properly through the terminal by editing my code in the terminal to `mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json --jsonArray`. This allowed for the data to be pulled from the file properly, compared to the first submitted round.  
